@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hardeshsingh
 - 👀 I’m a Front-end Developer
-- 🌱 I’m based in Jabalpur
+- 🌱 I’m based in Gwalior
 - 💞️ I’m looking to collaborate on new projects as a developer
 
 <!---
