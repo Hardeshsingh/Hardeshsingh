@@ -2,6 +2,10 @@
 - 👀 I’m a Front-end Developer
 - 🌱 I’m based in Gwalior
 - 💞️ I’m looking to collaborate on new projects as a developer
+- 💞️ coding makes me happy
+
+
+
 
 <!---
 Hardeshsingh/Hardeshsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
